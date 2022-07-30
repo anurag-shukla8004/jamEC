@@ -13,7 +13,7 @@
     "theme"
   ],
   "scripts": {
-    "dev": "next -p 8808",
+    "dev": "next -p 8888",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc",
